@@ -1,0 +1,23 @@
+body {
+    background-color: rgb(26, 1, 1);
+}
+
+
+
+h1 {
+  text-align: center;
+  color: rgb(255, 166, 0);
+}
+
+main {
+  color: rgb(255, 221, 0);
+}
+
+#goat {
+  font-size: 30px;
+}
+
+footer {
+  color: aqua;
+  font-size: 10px;
+}
